@@ -1,4 +1,4 @@
-# eta-jedis
+# eta-jedis-example
 
 ## Usage
 
